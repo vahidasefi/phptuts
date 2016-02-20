@@ -1,0 +1,7 @@
+<component name="CopyrightManager">
+  <copyright>
+    <option name="allowReplaceKeyword" value="" />
+    <option name="myName" value="Copyright" />
+    <option name="notice" value="File Name- &amp;#36;file.fileName&#10;Project Name- &amp;#36;project.name&#10;&#10;Written By &amp;#36;username.&#10;Created On &amp;#36;today.format(&quot;EEEE, MMMM d, yyyy&quot;)&#10;&#10;Copyright (c) &amp;#36;today.year" />
+  </copyright>
+</component>
